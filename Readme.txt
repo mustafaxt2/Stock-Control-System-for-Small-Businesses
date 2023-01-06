@@ -1,1 +1,0 @@
--Uygulamayı arayuz.exe kısayolundan başlatabilirsiniz.
